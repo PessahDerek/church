@@ -11,7 +11,7 @@ function App() {
                 <Route index={true} element={<Entries/>}/>
                 <Route path={"/totals"} element={<Totals/>}/>
                 <Route path={"/*"} element={<div>
-                    <h1>Man Wtf</h1>
+                    <h1>Man Wtf coz damn</h1>
                 </div>} />
             </Routes>
         </div>
